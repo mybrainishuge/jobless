@@ -87,7 +87,7 @@ export const put = function(actions, endpoint, data) {
             open: 'animated bounceInDown',
             close: 'animated bounceOutUp'
             },
-          timeout: 3000
+          timeout: 5000
         });
       } else {
         noty({
