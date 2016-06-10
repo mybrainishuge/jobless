@@ -1,6 +1,6 @@
 module.exports = {
   username: 'root',
-  password: '',
+  password: 'pass',
   database: 'job',
   config: {
     host: 'localhost',
